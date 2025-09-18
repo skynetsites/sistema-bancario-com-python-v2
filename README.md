@@ -29,10 +29,9 @@ Na **versão 2**, o sistema bancário foi **refatorado** para usar funções e p
 ## 🚀 Como Executar
 Clone o repositório, entre no diretório do projeto e execute o script principal:
 
-```bash
-git clone https://github.com/seuusuario/sistema-bancario-python-v2.git
-cd sistema-bancario-python-v2
-python sistema_bancario_v2.py 
+git clone https://github.com/skynetsites/sistema-bancario-com-python-v2.git  
+cd sistema-bancario-com-python-v2  
+python sistema_bancario_v2.py  
 
 ## 📌 Exemplo de uso no terminal
 ```text
@@ -46,9 +45,9 @@ python sistema_bancario_v2.py
 
 => nu
 Informe o CPF (somente números): 12345678900
-Informe o nome completo: Maria Silva
-Informe a data de nascimento (dd-mm-aaaa): 10-05-1990
-Informe o endereço (logradouro, nro - bairro - cidade/UF): Rua João e Maria, 123 - Floresta - Fortaleza/CE
+Informe o nome completo: Isaias Oliveira
+Informe a data de nascimento (dd/mm/aaaa): 11/12/1980
+Informe o endereço (Logradouro, Número - Bairro - cidade/UF): Rua João e Maria, 123 - Floresta - Fortaleza/CE
 Usuário criado com sucesso!
 
 => nu
@@ -63,7 +62,7 @@ Conta criada com sucesso!
 ==============================
 Agência: 0001
 C/C: 1
-Titular: Maria Silva
+Titular: Isaias Oliveira
 
 => d
 Informe o valor do depósito: 1000
