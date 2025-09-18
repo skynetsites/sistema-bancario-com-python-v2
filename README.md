@@ -24,6 +24,7 @@ Na **versão 2**, o sistema bancário foi **refatorado** para usar funções e p
 - Um usuário pode ter mais de uma conta, mas cada conta pertence a apenas um usuário.  
 
 ## 🛠 Tecnologias Utilizadas
+- VSCode
 - Python 3.x  
 
 ## 🚀 Como Executar
